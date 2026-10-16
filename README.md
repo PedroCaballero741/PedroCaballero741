@@ -74,7 +74,7 @@
 | **[which-AI-I-am](https://github.com/PedroCaballero741/which-AI-I-am)** | Psychometric evaluation suite running behavioral probes against LLM system prompts to chart personality traits. | Python, DeepSeek, AI Evaluation |
 | **[just-released](https://github.com/PedroCaballero741/just-released)** | Native GTK 4 / Libadwaita desktop manager to track, inspect, and automate binary deployments from GitHub Releases. | Python, GTK 4, Libadwaita |
 | **[everything-in-one-place](https://github.com/PedroCaballero741/everything-in-one-place)** | Native GNOME desktop calendar widget and automated reminders for university deadlines and course assignments. | Python, GTK 4, Libadwaita |
-| **[modular](https://github.com/PedroCaballero741/modular)** | Full-stack personal knowledge wiki and learning hub monorepo with cross-platform desktop integration. | TypeScript, Nx, React, NestJS, Tauri |
+| **[google-ads-telegram-bot](https://github.com/PedroCaballero741/google-ads-telegram-bot)** | Autonomous Python service tracking live ad spend, budget anomaly alerts, and interactive Telegram reports. | Python, PostgreSQL, Docker, Telegram |
 | **[leadsplus](https://github.com/PedroCaballero741/leadsplus)** | Compliance-first B2B lead generation and enrichment engine featuring AI scoring and live directory discovery. | FastAPI, Python, Tailwind CSS |
 
 ---
