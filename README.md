@@ -5,11 +5,12 @@
 
 [![Website](https://img.shields.io/badge/Website-anthonwood.com-black?style=flat-square&logo=google-chrome&logoColor=white)](https://www.anthonwood.com)
 [![GitHub](https://img.shields.io/badge/GitHub-PedroCaballero741-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/PedroCaballero741)
+[![Education](https://img.shields.io/badge/Undergraduate-Universidad%20Sim%C3%B3n%20Bol%C3%ADvar-blue?style=flat-square)](https://www.unisimon.edu.co/)
 [![Location](https://img.shields.io/badge/Location-Colombia-neutral?style=flat-square)](https://github.com/PedroCaballero741)
 
 <br/>
 
-*Data Science student exploring machine learning and AI behavior, with a focus on building native Linux desktop utilities, developer tools, and full-stack systems.*
+*Undergraduate student in Data Science at Universidad Simón Bolívar (Colombia), exploring machine learning, prompt diagnostics, native Linux desktop utilities, and full-stack software development.*
 
 </div>
 
