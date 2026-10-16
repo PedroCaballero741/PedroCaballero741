@@ -81,7 +81,7 @@
 
 <div align="center">
 
-### Available for Freelance & Contract Work
+### Available for Freelance 
 
 Open to freelance opportunities, consulting, and custom technical builds:
 - End-to-end AI agent workflows & automated scrapers (n8n, Python, LLMs)
